@@ -18,6 +18,11 @@ the room nodes you can fill the arrays with the different room  prefabs avalible
 
 UGtilespawner just add tile to that that will make sure the tiles spawn in.
 
+
+in game the controls are W,A,S,D and space to jump (jumps are infinite and there may be clipping issues with some tiles)
+
+to view the path made with the pathfinder you can pause the game and change into scene view.  
+
 that should be it.
 
 
