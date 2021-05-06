@@ -1,0 +1,25 @@
+Level generator instructions
+
+if prefabs set are not already in the gen prefab then set the following 
+
+starting rooms = start (nodes folder)
+paths = leftright + leftrightbottom+leftrightTop + allDirections(nodes)
+filla rooms = filler (node)
+end room = end (node)
+
+treasure enemies and traps you can fill with as many of each type you want 
+
+border = border (prefabs) this is rewquired for the pathnfinding to work can be ignored if you want to test how big the levels go
+gen mehtod and difficulty -  ignore
+
+pathchecker = A_path
+
+the room nodes you can fill the arrays with the different room  prefabs avalible feel free to add more.
+
+UGtilespawner just add tile to that that will make sure the tiles spawn in.
+
+that should be it.
+
+
+
+
